@@ -18,8 +18,7 @@ Exploring **Multimodal & Agentic AI**, scalable AI systems, and intelligent appl
 
 ### 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=viv007-cyber&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viv007-cyber&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viv007-cyber&show_icons=true&theme=tokyonight)
 
 
 
