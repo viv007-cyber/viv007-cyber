@@ -4,19 +4,23 @@
 
 </div>
 
-# 👋 Hey All!
-## I am Vivaan, a pre-final year engineering student at Delhi Technological University pursuing Software Engineering. 
+<div align="center">
+
+# Hey All!
+
+</div>
+### I am Vivaan, a pre-final year engineering student at Delhi Technological University pursuing Software Engineering. 
 ### Interests
 Exploring **Multimodal & Agentic AI**, scalable AI systems, and intelligent applications that bridge the gap between **cutting-edge research and real-world software engineering**.
 
----
+
 
 ### 📊 GitHub Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=viv007-cyber&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=viv007-cyber&layout=compact&theme=tokyonight)
 
----
+
 
 ### Social Profiles
 
