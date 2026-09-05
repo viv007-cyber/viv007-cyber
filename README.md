@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://i.pinimg.com/736x/db/70/37/db7037de7e594360eff498c1da97fcda.jpg" />
+  <img src="https://images5.alphacoders.com/137/1372162.jpeg" />
 
 </div>
 
@@ -13,13 +13,6 @@
 ### I am Vivaan, a pre-final year engineering student at Delhi Technological University pursuing Software Engineering. 
 ### Interests
 Exploring **Multimodal & Agentic AI**, scalable AI systems, and intelligent applications that bridge the gap between **cutting-edge research and real-world software engineering**.
-
-
-
-### 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=viv007-cyber&show_icons=true&theme=tokyonight)
-
 
 
 ### Social Profiles
