@@ -11,7 +11,11 @@
 </div>
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Multimodal+AI+Enthusiast;Agentic+AI+Developer;Building+Scalable+AI+Systems;Software+Engineering+@+DTU)](https://git.io/typing-svg)
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=650&lines=Multimodal+%26+Agentic+AI;Building+End-to-End+AI+Systems;Exploring+Intelligent+Applications;Software+Engineering+%40+DTU)](https://git.io/typing-svg)
+
+</div>
 
 </div>
 
