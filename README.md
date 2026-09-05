@@ -9,6 +9,7 @@
 # Hey All!
 
 </div>
+
 ### I am Vivaan, a pre-final year engineering student at Delhi Technological University pursuing Software Engineering. 
 ### Interests
 Exploring **Multimodal & Agentic AI**, scalable AI systems, and intelligent applications that bridge the gap between **cutting-edge research and real-world software engineering**.
